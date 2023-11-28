@@ -10,9 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "babel-preset-react": "^6.5.0",
-    "babelify": "^7.3.0",
+    "babelify": "^8.0.0",
     "react": "^15.1.0",
     "react-dom": "^15.1.0",
-    "watchify": "^3.7.0"
+    "watchify": "^4.0.0"
   }
 }
